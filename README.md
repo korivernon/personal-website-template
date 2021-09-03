@@ -4,4 +4,6 @@ This is a personal website template that anyone can use in order to create an on
 ## Recommendations
 I would recommend looking up booststrap formatting to get a solid understanding on how everything works. Also spend some time understanding how the website is put together as it is not completely straightforward (sorry). With basic understanding of HTML, it should be fairly easy to put together a portfolio that can serve as an online resume!
 
+**Note:** In order to modify the `js` code, go inside of `js/` and modify `main.js` to say what you would like!
+
 Hope this helps, please reach out if you have any questions or would like me to make any changes!
